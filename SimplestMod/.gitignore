@@ -1,0 +1,10 @@
+/bin
+/logs
+/stats
+/mods
+/resourcepacks
+/saves
+ForgeModLoader*.log*
+ForgeModLoader*.lck*
+output-client.*
+*.bak
