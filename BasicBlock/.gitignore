@@ -1,0 +1,11 @@
+/bin
+/logs
+/stats
+/mods
+/resourcepacks
+/saves
+ForgeModLoader*.log*
+ForgeModLoader*.lck*
+output-*.*
+*.bak
+/crash-reports
