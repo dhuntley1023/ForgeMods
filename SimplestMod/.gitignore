@@ -6,5 +6,6 @@
 /saves
 ForgeModLoader*.log*
 ForgeModLoader*.lck*
-output-client.*
+output-*.*
 *.bak
+/crash-reports
