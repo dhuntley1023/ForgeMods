@@ -14,6 +14,9 @@
       version=SimplestMod.VERSION)
 </code></td>
 <td>
++ One
++ Two
++ Three
 <ul><li>Requires the following import<br>
  <code>cpw.mods.fml.common.Mod</code>
  	</li>
@@ -23,4 +26,4 @@
 </td>
 </tr>
 </table>
-|}
+
