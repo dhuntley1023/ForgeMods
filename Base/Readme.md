@@ -10,7 +10,7 @@
 <tr>
 <td>Place the @Mod annotation just before your main mod class</td>
 <td>The @Mod annotation tells Forge that this is a mod to be loaded.  It includes the Mod ID and version, and cn optionally include a human-readable name (though this can be overridden in the mcmod.info file.  E.g.<br>
-<code>@Mod(modid = SimplestMod.MODID, name="Simplest Mod", 
+<code>@Mod(modid = SimplestMod.MODID, name="Simplest Mod", <br>
       version=SimplestMod.VERSION)
 </code></td>
 <td>
